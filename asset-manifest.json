@@ -1,7 +1,7 @@
 {
   "main.css": "/Budget-Expense-Tracker/static/css/main.c84551b5.chunk.css",
-  "main.js": "/Budget-Expense-Tracker/static/js/main.d9acdfec.chunk.js",
-  "main.js.map": "/Budget-Expense-Tracker/static/js/main.d9acdfec.chunk.js.map",
+  "main.js": "/Budget-Expense-Tracker/static/js/main.e34bef3c.chunk.js",
+  "main.js.map": "/Budget-Expense-Tracker/static/js/main.e34bef3c.chunk.js.map",
   "static/js/1.240f4dad.chunk.js": "/Budget-Expense-Tracker/static/js/1.240f4dad.chunk.js",
   "static/js/1.240f4dad.chunk.js.map": "/Budget-Expense-Tracker/static/js/1.240f4dad.chunk.js.map",
   "static/css/2.4f071a41.chunk.css": "/Budget-Expense-Tracker/static/css/2.4f071a41.chunk.css",
@@ -12,6 +12,6 @@
   "static/css/main.c84551b5.chunk.css.map": "/Budget-Expense-Tracker/static/css/main.c84551b5.chunk.css.map",
   "static/css/2.4f071a41.chunk.css.map": "/Budget-Expense-Tracker/static/css/2.4f071a41.chunk.css.map",
   "index.html": "/Budget-Expense-Tracker/index.html",
-  "precache-manifest.566d347daeb816b1454669a56aa3c489.js": "/Budget-Expense-Tracker/precache-manifest.566d347daeb816b1454669a56aa3c489.js",
+  "precache-manifest.353b22c595f7a5684442d725bbcecae6.js": "/Budget-Expense-Tracker/precache-manifest.353b22c595f7a5684442d725bbcecae6.js",
   "service-worker.js": "/Budget-Expense-Tracker/service-worker.js"
 }

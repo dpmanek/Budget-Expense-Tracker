@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d9acdfec9d63c7347659",
+    "revision": "e34bef3c4b1798149b4e",
     "url": "/Budget-Expense-Tracker/static/css/main.c84551b5.chunk.css"
   },
   {
-    "revision": "d9acdfec9d63c7347659",
-    "url": "/Budget-Expense-Tracker/static/js/main.d9acdfec.chunk.js"
+    "revision": "e34bef3c4b1798149b4e",
+    "url": "/Budget-Expense-Tracker/static/js/main.e34bef3c.chunk.js"
   },
   {
     "revision": "240f4daddc7ec9cd9fc7",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Budget-Expense-Tracker/static/js/runtime~main.cab0cdc3.js"
   },
   {
-    "revision": "00c62eff09b8b6f22818e353d361cd87",
+    "revision": "ec2c8d2895fb8f24e93b3d28f2801223",
     "url": "/Budget-Expense-Tracker/index.html"
   }
 ];
