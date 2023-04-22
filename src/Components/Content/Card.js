@@ -26,11 +26,7 @@ const Card = () => {
 						</button>
 					</div>
 					<div>
-						<img
-							className="pig"
-							src="./Budget-Expense-Tracker/r1.jpg"
-							alt="Pig"
-						/>
+						<img className="pig" src="/r1.jpg" alt="Pig" />
 						{/* src="https://startbootstrap.com/assets/img/freepik/wall-post-pana.svg */}
 					</div>
 				</div>

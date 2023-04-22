@@ -26,11 +26,7 @@ const Intro = () => {
 					</button>
 				</div>
 				<div>
-					<img
-						className="pig"
-						src="./Budget-Expense-Tracker/pigIllustration.png"
-						alt=" "
-					/>
+					<img className="pig" src="./pigIllustration.png" alt=" " />
 				</div>
 			</div>
 		</div>
