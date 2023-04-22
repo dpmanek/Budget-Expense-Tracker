@@ -8,7 +8,7 @@ const OurTeam = () => {
 			<div className="row col-md-12 mains">
 				<div className="col-md-3 profile-card">
 					<div className="img">
-						<img src="./Budget-Expense-Tracker/Nirav.jpg" alt="Nirav" />
+						<img src="./Nirav.jpg" alt="Nirav" />
 					</div>
 					<div className="caption">
 						<h2>Nirav Jain</h2>
@@ -26,7 +26,7 @@ const OurTeam = () => {
 
 				<div className="col-md-3 profile-card">
 					<div className="img">
-						<img src="./Budget-Expense-Tracker/DeepM.jpg" alt="Deep" />
+						<img src="./DeepM.jpg" alt="Deep" />
 					</div>
 					<div className="caption">
 						<h2>Deep Manek</h2>
@@ -44,7 +44,7 @@ const OurTeam = () => {
 
 				<div className="col-md-3 profile-card">
 					<div className="img">
-						<img src="./Budget-Expense-Tracker/Kevin.jpeg" alt="Kevin" />
+						<img src="./Kevin.jpeg" alt="Kevin" />
 					</div>
 					<div className="caption">
 						<h2>Kevin D'sa</h2>
@@ -62,7 +62,7 @@ const OurTeam = () => {
 
 				<div className="col-md-3 profile-card">
 					<div className="img">
-						<img src="./Budget-Expense-Tracker/Amisha.jpg" alt="Amisha" />
+						<img src="./Amisha.jpg" alt="Amisha" />
 					</div>
 					<div className="caption">
 						<h2>Amisha Antiya</h2>

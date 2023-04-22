@@ -8,7 +8,7 @@ const Mission = () => {
 			<div className="row col-md-12">
 				<div className="col-md-5 img2">
 					<img
-						src="./Budget-Expense-Tracker/cf.png"
+						src="./cf.png"
 						alt="Track your finance"
 						width="400"
 						height="300"

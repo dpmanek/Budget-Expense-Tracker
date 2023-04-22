@@ -36,7 +36,7 @@ function Navbar(props) {
 				<Link className="navbar-brand hover-change" to="/">
 					{/* <a className="navbar-brand hover-change"> */}
 					<img
-						src="./Budget-Expense-Tracker/pigIllustration.png"
+						src="./pigIllustration.png"
 						alt="BET Logo"
 						width="20"
 						height="20"
